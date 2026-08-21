@@ -33,4 +33,4 @@ Yes — it's free to download and use.
 ## What you get
 - **Edition Upgrade:** Switch between product editions while preserving activation state.
 - **Log & Reporting:** Detailed activation logs for auditing and troubleshooting.
-- **Portable Execution:** Run directly from USB without installation or registry changes.   
+- **Portable Execution:** Run directly from USB without installation or registry changes.    
